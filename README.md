@@ -2,7 +2,9 @@
 <h3 align="center">A Passionate JavaScript Full-Stack developer from Budaun, U.P. (India)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshivanggupta&label=Profile%20views&color=0e75b6&style=flat" alt="meshivanggupta" /> </p>
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 - 🌱 I’m currently learning **Figma and Latest JS Frameworks/Libraries.**
 
 - 💬 Ask me about **React-js, React-Native, Node-js.........**
